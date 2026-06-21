@@ -1,0 +1,5 @@
+{
+  "workflow_name": "Legal GenAI Workflow Prototype",
+  "description": "A simple demonstration of a legal workflow using Python and JSON.",
+  "version": "1.0.0"
+}
